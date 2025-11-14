@@ -21,7 +21,7 @@ int main(void)
         scanf(" %d", &digit);
         if (digit>0 && digit<= 25)
             break;
-        printf( "elige entre 1 y 10,para seguir ");    
+        printf( "elige entre 1 y 25,para seguir ");    
     }
     printf("vas a jugar con %d digitos, suerte",digit);
     
